@@ -2,6 +2,7 @@ import React, {useState} from 'react';
 import DatePicker from "react-datepicker";
 import './Home.scss'
 import "react-datepicker/dist/react-datepicker.css";
+import BTCChart from "./components/BTCChart";
 
 
 const Home = () => {
@@ -18,9 +19,9 @@ const Home = () => {
                 EndDate:
                 <DatePicker selected={endDate} onChange={(date) => setEndDate(date)}/>
             </label>
-            <button>Render</button>
+            <button >Render</button>
             <div className="home__chart">
-
+                <BTCChart/>
             </div>
         </div>
     );
