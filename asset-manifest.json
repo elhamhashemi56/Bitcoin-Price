@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/bitcoin-price/static/css/main.b3610b43.chunk.css",
-    "main.js": "/bitcoin-price/static/js/main.5f3589de.chunk.js",
-    "main.js.map": "/bitcoin-price/static/js/main.5f3589de.chunk.js.map",
-    "runtime-main.js": "/bitcoin-price/static/js/runtime-main.dc9a3468.js",
-    "runtime-main.js.map": "/bitcoin-price/static/js/runtime-main.dc9a3468.js.map",
-    "static/css/2.ecdd39c8.chunk.css": "/bitcoin-price/static/css/2.ecdd39c8.chunk.css",
-    "static/js/2.f406b2f1.chunk.js": "/bitcoin-price/static/js/2.f406b2f1.chunk.js",
-    "static/js/2.f406b2f1.chunk.js.map": "/bitcoin-price/static/js/2.f406b2f1.chunk.js.map",
-    "index.html": "/bitcoin-price/index.html",
-    "static/css/2.ecdd39c8.chunk.css.map": "/bitcoin-price/static/css/2.ecdd39c8.chunk.css.map",
-    "static/css/main.b3610b43.chunk.css.map": "/bitcoin-price/static/css/main.b3610b43.chunk.css.map",
-    "static/js/2.f406b2f1.chunk.js.LICENSE.txt": "/bitcoin-price/static/js/2.f406b2f1.chunk.js.LICENSE.txt"
+    "main.css": "/Bitcoin-Price/static/css/main.b3610b43.chunk.css",
+    "main.js": "/Bitcoin-Price/static/js/main.5f3589de.chunk.js",
+    "main.js.map": "/Bitcoin-Price/static/js/main.5f3589de.chunk.js.map",
+    "runtime-main.js": "/Bitcoin-Price/static/js/runtime-main.480402fc.js",
+    "runtime-main.js.map": "/Bitcoin-Price/static/js/runtime-main.480402fc.js.map",
+    "static/css/2.ecdd39c8.chunk.css": "/Bitcoin-Price/static/css/2.ecdd39c8.chunk.css",
+    "static/js/2.f406b2f1.chunk.js": "/Bitcoin-Price/static/js/2.f406b2f1.chunk.js",
+    "static/js/2.f406b2f1.chunk.js.map": "/Bitcoin-Price/static/js/2.f406b2f1.chunk.js.map",
+    "index.html": "/Bitcoin-Price/index.html",
+    "static/css/2.ecdd39c8.chunk.css.map": "/Bitcoin-Price/static/css/2.ecdd39c8.chunk.css.map",
+    "static/css/main.b3610b43.chunk.css.map": "/Bitcoin-Price/static/css/main.b3610b43.chunk.css.map",
+    "static/js/2.f406b2f1.chunk.js.LICENSE.txt": "/Bitcoin-Price/static/js/2.f406b2f1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc9a3468.js",
+    "static/js/runtime-main.480402fc.js",
     "static/css/2.ecdd39c8.chunk.css",
     "static/js/2.f406b2f1.chunk.js",
     "static/css/main.b3610b43.chunk.css",
