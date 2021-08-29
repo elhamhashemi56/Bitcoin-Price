@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Bitcoin-Price/static/css/main.b3610b43.chunk.css",
-    "main.js": "/Bitcoin-Price/static/js/main.5f3589de.chunk.js",
-    "main.js.map": "/Bitcoin-Price/static/js/main.5f3589de.chunk.js.map",
+    "main.js": "/Bitcoin-Price/static/js/main.fe8fcbee.chunk.js",
+    "main.js.map": "/Bitcoin-Price/static/js/main.fe8fcbee.chunk.js.map",
     "runtime-main.js": "/Bitcoin-Price/static/js/runtime-main.480402fc.js",
     "runtime-main.js.map": "/Bitcoin-Price/static/js/runtime-main.480402fc.js.map",
     "static/css/2.ecdd39c8.chunk.css": "/Bitcoin-Price/static/css/2.ecdd39c8.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.ecdd39c8.chunk.css",
     "static/js/2.f406b2f1.chunk.js",
     "static/css/main.b3610b43.chunk.css",
-    "static/js/main.5f3589de.chunk.js"
+    "static/js/main.fe8fcbee.chunk.js"
   ]
 }
